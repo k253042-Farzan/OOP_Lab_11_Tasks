@@ -1,0 +1,9 @@
+Student Name: Farzan Obaid
+Student ID: 25K-3042
+Registered Courses: 
+OOP Theory 
+DLD Theory
+MVC
+CCE
+EW
+Total Credit Hours: 15
